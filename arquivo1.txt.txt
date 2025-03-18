@@ -1,6 +1,6 @@
 Faculdade: uniesp
 Curso: ciencia da compitação
-Disciplina: Topicos essenciais da programação
+Disciplina: Introdução a programação
 Nome: Laurent Alves Maia de Assis
 
 resposta lista de exercicio
@@ -9,4 +9,15 @@ Questão 1)
 
 Questão 2)
 
-questão 3)
+
+
+
+
+Questão 4)
+
+Questão 5)
+
+Questão 6)
+
+Questão 10)
+
